@@ -1,0 +1,36 @@
+_repo: The-Wives-of-Henry-the-Eighth-and-the-Parts-They-Played-in-History_32813
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hume, Martin A. S. (Martin Andrew Sharp)
+    alias: Hume, Martin Andrew Sharp
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '9628'
+    url: http://www.gutenberg.org/2009/agents/9628
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Sharp_%28journalist%29
+description: ''
+gutenberg_issued: '2010-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Jane Seymour, Queen, consort of Henry VIII, King of England, 1509?-1537'
+- !lcsh 'Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536'
+- !lcsh 'Catharine Howard, Queen, consort of Henry VIII, King of England, -1542'
+- !lcsh 'Catharine, of Aragon, Queen, consort of Henry VIII, King of England, 1485-1536'
+- !lcsh 'Catharine Parr, Queen, consort of Henry VIII, King of England, 1512-1548'
+- !lcsh 'Henry VIII, King of England, 1491-1547 -- Marriage'
+- !lcsh 'Anne, of Cleves, Queen, consort of Henry VIII, King of England, 1515-1557'
+- !lcsh 'Marriages of royalty and nobility -- Great Britain -- History -- 16th century'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Biography'
+title: The Wives of Henry the Eighth and the Parts They Played in History
+url: http://www.gutenberg.org/ebooks/32813
